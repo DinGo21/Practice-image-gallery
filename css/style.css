@@ -1,0 +1,39 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: 30rem;
+    width: 40rem;
+}
+
+.header {
+    border-bottom: 0.2rem solid black;
+    border-color: black;
+    margin-bottom: 3.5rem;
+}
+
+.title {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: normal;
+}
+
+.images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    ;
+    flex-wrap: wrap;
+}
+
+.image {
+    text-align: center;
+}
+
+
